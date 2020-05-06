@@ -18,4 +18,6 @@
 
 [github page](https://patiphan247.github.io/Lab/)
 
+[การสร้าง Github Pages](https://youtu.be/_oTbo-gp9p0)
+
 -------------
